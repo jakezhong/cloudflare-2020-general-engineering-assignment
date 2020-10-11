@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "new-worker",
+  "name": "general-engineering-assignment",
   "version": "1.0.0",
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
-  "author": "Jake Zhong <jklevis88@gmail.com>",
+  "author": "Jake Zhong <jzhong1@dons.usfca.edu>",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^1.18.2"
