@@ -10,4 +10,4 @@ This is a Cloudflare Worker project done by using the Cloudflare Wrangler. To li
 * If no “/links” is provided in the url, then the default static HTML page will be rendered and displayed. The static HTML page has been customized and styled by me with the theme color of Cloudflare, and I hope you like it.
 
 ### Copyright
-This project was built by [Jake Zhong](https://jakezhong.com)
+This project was built by [Jake Zhong](https://jakezhong.com) on Oct 10, 2020
