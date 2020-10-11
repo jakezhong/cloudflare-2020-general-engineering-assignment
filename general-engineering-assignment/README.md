@@ -1,5 +1,5 @@
 # Cloudflare 2020 General Engineering Assignment - Jake Zhong
-This is a Cloudflare Worker project done by using the Cloudflare Wrangler. 
+This is a Cloudflare Worker project done by using the Cloudflare Wrangler. To live preview this project, please check out this link [Cloudflare General Engineering Assignment - Jake Zhong](https://general-engineering-assignment.jzhong1.workers.dev)
 
 ## It has two majors missions based on the requirements.
 * Generate a JSON API with an array of link objects (name and url).
